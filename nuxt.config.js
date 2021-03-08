@@ -22,7 +22,7 @@ export default {
 
     // Dev Server config: https://zh.nuxtjs.org/docs/2.x/configuration-glossary/configuration-server
     server: {
-        port: 8080, // default: 3000
+        port: 8000, // default: 3000
         host: "0.0.0.0" // default: localhost
     },
 
