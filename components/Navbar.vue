@@ -1,7 +1,7 @@
 <template>
-    <nav class="fixed top-0 left-0 flex w-full gap-4 p-4 bg-gray-200 shadow-md">
+    <nav class="fixed top-0 left-0 z-10 flex w-full gap-4 p-4 bg-gray-200 shadow-md">
         <NuxtLink to="/">Home</NuxtLink>
-        <NuxtLink to="/helloworld">Hello</NuxtLink>
+        <NuxtLink to="/addsub20">20以内加减混合运算</NuxtLink>
     </nav>
 </template>
 
